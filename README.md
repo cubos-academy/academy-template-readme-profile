@@ -62,6 +62,7 @@ Substitua o usuário guidocerqueira pelo seu usuário no GitHub.
 -->
 
 ### GitHub Stats ⚡
+
 <div>
 <a href="https://github.com/guidocerqueira">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidocerqueira&layout=compact&langs_count=7&theme=dracula"/>
